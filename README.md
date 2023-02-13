@@ -32,3 +32,6 @@ Courtesy of [Vikas Rai](https://github.com/raiv200)
 
 
 Novo link
+
+## inclusão de informação referente a aula03 exercicio1
+Data 13/02/2023
